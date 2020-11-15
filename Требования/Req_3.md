@@ -16,10 +16,10 @@
 
 ![alt text][email]
 
-[email]: https://github.com/falkona/GeekBrainsTeacher/blob/main/img/email.png
+[email]: https://github.com/falkona/GeekBrainsStudents/blob/master/img/email.png
 
 Вход по номеру телефона
 
 ![alt text][phone]
 
-[phone]: https://github.com/falkona/GeekBrainsTeacher/blob/main/img/phone.png
+[phone]: https://github.com/falkona/GeekBrainsStudents/blob/master/img/phone.png
